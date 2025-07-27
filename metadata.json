@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis AI Assistant",
+  "description": "A futuristic AI assistant inspired by Iron Man, featuring voice activation, AI-powered replies, and a particle-themed UI. Interact with a virtual being for weather, jokes, knowledge, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
